@@ -1,6 +1,5 @@
 .singUpButton {
       cursor: pointer;
-      width: 152px;
       height: 58px;
       gap: 12px;
       border-radius: 20px;
@@ -14,6 +13,7 @@
       line-height: 140%;
       font-weight: 600;
       color: white;
+      padding: 10px 20px;
 }
 .singUpButton:focus{
       border: none;
