@@ -1,0 +1,19 @@
+.logoContainer {
+      display: flex;
+      align-items: center;
+      color: white;
+      padding: 10px 0px;
+}
+
+.logoContainer img {
+      width: 32px;
+      height: 32px;
+}
+
+.logoContainer p {
+      width: 199px;
+      height: 19px;
+      font-weight: 600;
+      font-size: 20px;
+      margin: 0;
+}

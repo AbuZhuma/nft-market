@@ -1,0 +1,26 @@
+.nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+}
+
+.nav_li {
+      cursor: pointer;
+      padding: 20px 25px;
+      font-family: Work Sans;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 140%;
+      letter-spacing: 0%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      text-decoration: none;
+      transition: all 0.2s;
+}
+.nav_li:hover{
+      color: rgba(162, 89, 255, 1);
+      transition: all 0.2s;
+}

@@ -1,0 +1,16 @@
+
+.inputBtn{
+      display: flex;
+      background: white;
+      justify-content: space-between;
+      border-radius: 20px;
+}
+.inputBtn input{
+      border: none;
+      outline: none;
+      width: 70%;
+      background: none;
+      padding-left: 20px;
+      font-size: 16px;
+      color: rgba(43, 43, 43, 1);
+}
